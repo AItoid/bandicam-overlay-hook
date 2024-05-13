@@ -3,7 +3,7 @@ Hijack Bandicam's overlay for rendering onto the screen with DirectX11.
 
 ### Setup
 1. Compile the DLL with Visual Studio 2022.
-2. Open Banidcam (admin, default), and select the third blue rectangle at the top ('Game Recording Mode.')
+2. Open Bandicam (admin, default), and select the third blue rectangle at the top ('Game Recording Mode.')
 4. Select the tab 'FPS', and select 'Show FPS Overlay' to ensure the overlay is working for your game.
 5. Load the module into the game.
 
