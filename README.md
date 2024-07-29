@@ -1,4 +1,4 @@
-### BandicamHook
+### bandicam-overlay-hook
 Hijack Bandicam's overlay for rendering onto the screen with DirectX11.
 
 ### Setup
